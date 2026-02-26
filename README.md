@@ -2,7 +2,7 @@
 
 An interactive Streamlit application demonstrating an **automated file cleaning engine** — with intelligent data detection, configurable cleaning rules, schema validation, and production-ready database ingestion with UPSERT logic.
 
-**[View Live Demo](https://anualli-demo-file-cleaning-ingestion.streamlit.app)**
+**[View Live Demo](https://anualli-demo-file-cleaning-ingestion-app-nvkjmk.streamlit.app)**
 
 ---
 
